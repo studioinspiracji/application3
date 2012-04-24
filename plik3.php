@@ -1,1 +1,3 @@
-test pliku 3
+<?php
+echo 'test pliku 3';
+?>
