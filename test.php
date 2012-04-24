@@ -1,3 +1,3 @@
 <?php
-echo 'dupa';
+echo 'dupa zmieniona';
 ?>
